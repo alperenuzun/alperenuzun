@@ -36,4 +36,3 @@ I occasionally write about backend engineering, architecture, and practical syst
 ### Get in touch
 
 - 💼 LinkedIn: https://www.linkedin.com/in/alperenuzun  
-- 🧠 GitHub: https://github.com/alperenuzun
