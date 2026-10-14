@@ -1,6 +1,6 @@
 ## Hi, I'm Alperen 👋
 
-Staff Engineer with 7+ years of experience in backend, focused on designing scalable architectures, improving developer productivity, and driving technical excellence across teams.
+Staff Engineer with 10+ years of experience in backend, focused on designing scalable architectures, improving developer productivity, and driving technical excellence across teams.
 
 I enjoy working on complex problem domains where performance, reliability, and maintainability matter. My approach combines strong engineering fundamentals with pragmatic decision-making, ensuring that systems remain evolvable as both business and teams grow.
 
@@ -24,8 +24,8 @@ I enjoy working on complex problem domains where performance, reliability, and m
 ### Currently
 
 - Working on backend-heavy systems with a strong focus on **architecture and performance**
-- Exploring **AI-assisted development**, LLM integrations, and intelligent automation
-- Building and open-sourcing projects around **distributed systems and AI-driven tooling**
+- Creating and maintaining **AI-assisted products**, LLM integrations, Agentic Workflows and intelligent automation
+- Building and open-sourcing projects around **AI-driven tooling**
 
 ### Writing & sharing
 
